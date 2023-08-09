@@ -6,6 +6,7 @@ import Novas from '../../assets/icones/novas-inativo.png'
 import surpreendaMe from '../../assets/icones/surpreenda-me-inativo.png'
 import styles from './Menu.module.scss';
 
+
 export default function Menu() {
   return (
     <nav className={styles.menu}>
